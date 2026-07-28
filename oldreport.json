@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Hammer",
+    "temp": 91.4,
+    "power": true
+  },
+  {
+    "id": 2,
+    "name": "Drill Press",
+    "temp": 82.1,
+    "power": false
+  },
+  {
+    "id": 3,
+    "name": "Lathe",
+    "temp": 93.7,
+    "power": true
+  },
+  {
+    "id": 4,
+    "name": "CNC Mill",
+    "temp": 78.5,
+    "power": false
+  },
+  {
+    "id": 5,
+    "name": "Hydraulic Press",
+    "temp": 92.2,
+    "power": true
+  },
+  {
+    "id": 6,
+    "name": "Band Saw",
+    "temp": 65.8,
+    "power": false
+  },
+  {
+    "id": 7,
+    "name": "Laser Cutter",
+    "temp": 91.0,
+    "power": true
+  },
+  {
+    "id": 8,
+    "name": "Grinder",
+    "temp": 88.3,
+    "power": false
+  },
+  {
+    "id": 9,
+    "name": "Plasma Torch",
+    "temp": 93.6,
+    "power": true
+  },
+  {
+    "id": 10,
+    "name": "Waterjet Cutter",
+    "temp": 52.4,
+    "power": false
+  }
+]
